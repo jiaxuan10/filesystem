@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "verbatimModuleSyntax": true,
+    "target": "ES6",
+    "module": "ESNext",
+    "strict": true,
+    "esModuleInterop": true,
+    "types": ["svelte"]
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules"]
+}
